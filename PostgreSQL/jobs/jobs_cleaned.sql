@@ -2,7 +2,7 @@
 CREATE SCHEMA IF NOT EXISTS staging;
 
 -- Drop the table first, before starting the CTE chain
-DROP TABLE IF EXISTS staging.jobs_in_data_cleaned;
+DROP TABLE IF EXISTS staging.jobs_in_data_cleaned CASCADE;
 
 -- Save cleaned data into staging.jobs_in_data_cleaned
 CREATE TABLE staging.jobs_in_data_cleaned AS
