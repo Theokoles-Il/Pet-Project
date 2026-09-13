@@ -1,6 +1,12 @@
 -- We are creating a scheme for cleaning the data from these stages.
 CREATE SCHEMA IF NOT EXISTS staging;
 
+-- Drop the table first, before starting the CTE chain
+DROP TABLE IF EXISTS staging.jobs_in_data_cleaned;
+
+-- Save cleaned data into staging.jobs_in_data_cleaned
+CREATE TABLE staging.jobs_in_data_cleaned AS
+
 -- 1. CTE for normalizing text and searching for duplicates
 WITH cleaned_raw AS (
     SELECT
@@ -59,10 +65,7 @@ ranked_and_lagged AS (
     WHERE row_num = 1 -- Keep only unique records (deduplicated)
 )
 
--- 3. Final step: save cleaned data into staging.jobs_in_data_cleaned
-DROP TABLE IF EXISTS staging.jobs_in_data_cleaned;
-
-CREATE TABLE staging.jobs_in_data_cleaned AS
+-- 3. Final SELECT that becomes the table content
 SELECT 
     work_year,
     job_title,
