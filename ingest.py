@@ -2,12 +2,15 @@ import os
 import pandas
 from sqlalchemy import create_engine, text
 
-# PostgreSQL connection parameters
-DB_USER = "postgres"
-DB_PASSWORD = "Theokoles_Il"
-DB_HOST = "localhost"
-DB_PORT = "5433"
-DB_NAME = "double_domain_db"
+# PostgreSQL connection parameters (loaded from environment variables)
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASSWORD = os.getenv("DB_PASSWORD")
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "5433")
+DB_NAME = os.getenv("DB_NAME", "double_domain_db")
+
+if not DB_PASSWORD:
+    raise ValueError("DB_PASSWORD environment variable is not set. Run: export DB_PASSWORD='your_password'")
 
 # Build the database connection URL
 DATABASE_URL = f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
