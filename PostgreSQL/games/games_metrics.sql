@@ -25,7 +25,7 @@ WITH platform_metrics AS (
 rating_buckets AS (
 	SELECT 
 		platform,
-		genre,
+		COALESCE(genre, 'Unknown') AS genre,
 		COUNT(CASE WHEN rating >= 8 THEN 0 END) AS high_rated_games,
 		COUNT(CASE WHEN rating < 5 THEN 0 END) AS low_rated_games
 	FROM staging.games_sales_cleaned
