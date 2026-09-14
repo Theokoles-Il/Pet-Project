@@ -75,3 +75,5 @@ LEFT JOIN work_setting_metrics wm
    AND cm.job_category = wm.job_category
    AND cm.experience_level = wm.experience_level 
    AND cm.employment_type = wm.employment_type;
+
+SELECT * FROM marts.it_market_comprehensive_analytics LIMIT 132;
