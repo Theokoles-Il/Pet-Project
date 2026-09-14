@@ -38,7 +38,7 @@ SELECT
     cm.experience_level, 
     cm.employment_type,  
 
-    -- Finances & Volumes
+    -- Finances & Volumes --
     cm.total_vacancies,
     cm.total_payroll_usd,
     cm.avg_salary_usd,
