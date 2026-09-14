@@ -67,10 +67,14 @@ marts → games_market_analytics, it_market_comprehensive_analytics (aggregated 
 ## How to Run
 
 1. Start PostgreSQL in Docker (container must be running on port `5433`)
-2. Run `python3 ingest.py` to load raw CSVs into the `raw` schema
-3. Execute `jobs/jobs_cleaned.sql` → `jobs/jobs_metrics.sql`
-4. Execute `games/games_cleaned.sql` → `games/games_metrics.sql`
-5. Query the resulting views:
+2. Set the database password as an environment variable:
+```bash
+   export DB_PASSWORD="your_password_here"
+```
+3. Run `python3 ingest.py` to load raw CSVs into the `raw` schema
+4. Execute `jobs/jobs_cleaned.sql` → `jobs/jobs_metrics.sql`
+5. Execute `games/games_cleaned.sql` → `games/games_metrics.sql`
+6. Query the resulting views:
 ```sql
    SELECT * FROM marts.it_market_comprehensive_analytics LIMIT 132;
    SELECT * FROM marts.games_market_analytics LIMIT 66;
