@@ -1,0 +1,133 @@
+"work_year","job_category","experience_level","employment_type","total_vacancies","total_payroll_usd","avg_salary_usd","median_salary_usd","remote_vacancies_pct","hybrid_vacancies_pct","in_person_vacancies_pct","category_salary_rank_by_exp"
+2020,Machine Learning and AI,Entry-level,Full-time,3,433896,144632.00,138000.0,33.33,66.67,0.00,1
+2020,Data Engineering,Entry-level,Full-time,3,224742,74914.00,70000.0,66.67,0.00,33.33,2
+2020,Data Analysis,Entry-level,Contract,2,144753,72376.50,72376.5,50.00,50.00,0.00,3
+2020,Data Analysis,Entry-level,Full-time,4,233708,58427.00,59949.5,75.00,0.00,25.00,4
+2020,Data Science and Research,Entry-level,Full-time,6,350231,58371.83,50294.5,16.67,33.33,50.00,5
+2020,Data Science and Research,Entry-level,Part-time,1,21669,21669.00,21669.0,0.00,100.00,0.00,6
+2020,Machine Learning and AI,Entry-level,Part-time,1,15966,15966.00,15966.0,100.00,0.00,0.00,7
+2020,Data Science and Research,Executive,Full-time,2,625000,312500.00,312500.0,100.00,0.00,0.00,1
+2020,Data Engineering,Executive,Full-time,1,79833,79833.00,79833.0,0.00,100.00,0.00,2
+2020,Data Analysis,Executive,Full-time,1,15000,15000.00,15000.0,0.00,0.00,100.00,3
+2020,Data Science and Research,Mid-level,Full-time,12,1375600,114633.33,91416.5,58.33,16.67,25.00,1
+2020,Data Engineering,Mid-level,Full-time,8,719244,89905.50,90065.0,62.50,37.50,0.00,2
+2020,Data Analysis,Mid-level,Full-time,7,566759,80965.57,87000.0,42.86,14.29,42.86,3
+2020,Data Analysis,Mid-level,Contract,1,60000,60000.00,60000.0,0.00,0.00,100.00,4
+2020,Machine Learning and AI,Mid-level,Full-time,1,50180,50180.00,50180.0,0.00,0.00,100.00,5
+2020,Data Science and Research,Senior,Full-time,8,1384126,173015.75,156130.5,62.50,25.00,12.50,1
+2020,Machine Learning and AI,Senior,Full-time,4,572722,143180.50,133552.0,25.00,50.00,25.00,2
+2020,Data Engineering,Senior,Full-time,5,583970,116794.00,114047.0,40.00,60.00,0.00,3
+2020,Machine Learning and AI,Senior,Freelance,1,60000,60000.00,60000.0,100.00,0.00,0.00,4
+2021,Machine Learning and AI,Entry-level,Full-time,10,767667,76766.70,75500.0,60.00,40.00,0.00,1
+2021,Data Science and Research,Entry-level,Full-time,13,957518,73655.23,80000.0,30.77,46.15,23.08,2
+2021,Data Engineering,Entry-level,Full-time,5,329873,65974.60,66970.0,40.00,60.00,0.00,3
+2021,Data Analysis,Entry-level,Full-time,8,495232,61904.00,59102.0,62.50,37.50,0.00,4
+2021,Machine Learning and AI,Entry-level,Part-time,2,47682,23841.00,23841.0,0.00,100.00,0.00,5
+2021,Data Science and Research,Executive,Contract,1,416000,416000.00,416000.0,100.00,0.00,0.00,1
+2021,Leadership and Management,Executive,Full-time,2,465000,232500.00,232500.0,50.00,50.00,0.00,2
+2021,Data Analysis,Executive,Full-time,1,150000,150000.00,150000.0,100.00,0.00,0.00,3
+2021,Data Science and Research,Executive,Full-time,6,830280,138380.00,135936.0,33.33,16.67,50.00,4
+2021,Machine Learning and AI,Mid-level,Contract,1,270000,270000.00,270000.0,100.00,0.00,0.00,1
+2021,Data Architecture and Modeling,Mid-level,Full-time,3,500000,166666.67,170000.0,100.00,0.00,0.00,2
+2021,Leadership and Management,Mid-level,Full-time,1,110000,110000.00,110000.0,100.00,0.00,0.00,3
+2021,Data Science and Research,Mid-level,Full-time,29,2681589,92468.59,82500.0,48.28,44.83,6.90,4
+2021,Machine Learning and AI,Mid-level,Full-time,10,919566,91956.60,49173.0,50.00,40.00,10.00,5
+2021,Data Analysis,Mid-level,Full-time,8,686519,85814.88,85000.0,62.50,12.50,25.00,6
+2021,Data Engineering,Mid-level,Full-time,20,1576288,78814.40,78789.0,50.00,30.00,20.00,7
+2021,Data Engineering,Mid-level,Part-time,1,69741,69741.00,69741.0,100.00,0.00,0.00,8
+2021,Data Analysis,Mid-level,Part-time,1,56000,56000.00,56000.0,100.00,0.00,0.00,9
+2021,Machine Learning and AI,Mid-level,Freelance,1,45555,45555.00,45555.0,0.00,100.00,0.00,10
+2021,Data Engineering,Mid-level,Freelance,1,20000,20000.00,20000.0,0.00,0.00,100.00,11
+2021,Data Architecture and Modeling,Senior,Full-time,2,349703,174851.50,174851.5,0.00,100.00,0.00,1
+2021,Data Management and Strategy,Senior,Full-time,1,165000,165000.00,165000.0,100.00,0.00,0.00,2
+2021,Data Engineering,Senior,Full-time,15,2327751,155183.40,160000.0,66.67,20.00,13.33,3
+2021,Machine Learning and AI,Senior,Full-time,12,1641215,136767.92,152500.0,50.00,41.67,8.33,4
+2021,Data Science and Research,Senior,Full-time,19,2483329,130701.53,135000.0,47.37,31.58,21.05,5
+2021,Data Analysis,Senior,Full-time,10,1071167,107116.70,84327.0,80.00,20.00,0.00,6
+2021,Data Science and Research,Senior,Contract,1,105000,105000.00,105000.0,100.00,0.00,0.00,7
+2021,Leadership and Management,Senior,Full-time,5,492036,98407.20,102839.0,100.00,0.00,0.00,8
+2021,Machine Learning and AI,Senior,Freelance,1,60000,60000.00,60000.0,100.00,0.00,0.00,9
+2022,Data Science and Research,Entry-level,Part-time,2,210000,105000.00,105000.0,50.00,50.00,0.00,1
+2022,Data Management and Strategy,Entry-level,Full-time,1,105000,105000.00,105000.0,100.00,0.00,0.00,1
+2022,Machine Learning and AI,Entry-level,Freelance,1,100000,100000.00,100000.0,100.00,0.00,0.00,3
+2022,Data Engineering,Entry-level,Full-time,13,1129278,86867.54,80000.0,69.23,0.00,30.77,4
+2022,Machine Learning and AI,Entry-level,Full-time,21,1798244,85630.67,56536.0,61.90,14.29,23.81,5
+2022,BI and Visualization,Entry-level,Full-time,1,76000,76000.00,76000.0,0.00,100.00,0.00,6
+2022,Data Science and Research,Entry-level,Full-time,29,2109589,72744.45,73000.0,37.93,34.48,27.59,7
+2022,Leadership and Management,Entry-level,Full-time,4,272900,68225.00,61450.0,50.00,25.00,25.00,8
+2022,Data Analysis,Entry-level,Part-time,3,184940,61646.67,34320.0,66.67,33.33,0.00,9
+2022,Data Analysis,Entry-level,Full-time,18,1061306,58961.44,51000.0,38.89,27.78,33.33,10
+2022,Leadership and Management,Entry-level,Freelance,1,50000,50000.00,50000.0,100.00,0.00,0.00,11
+2022,Machine Learning and AI,Entry-level,Contract,1,30469,30469.00,30469.0,100.00,0.00,0.00,12
+2022,Data Engineering,Executive,Full-time,12,2652022,221001.83,227500.0,91.67,0.00,8.33,1
+2022,Machine Learning and AI,Executive,Full-time,3,580000,193333.33,200000.0,100.00,0.00,0.00,2
+2022,Data Science and Research,Executive,Full-time,11,1903365,173033.18,175100.0,36.36,9.09,54.55,3
+2022,Leadership and Management,Executive,Full-time,9,1517976,168664.00,160000.0,66.67,11.11,22.22,4
+2022,Data Analysis,Executive,Full-time,2,240000,120000.00,120000.0,100.00,0.00,0.00,5
+2022,Data Management and Strategy,Mid-level,Full-time,2,300000,150000.00,150000.0,0.00,0.00,100.00,1
+2022,Machine Learning and AI,Mid-level,Full-time,42,4995080,118930.48,118488.0,57.14,11.90,30.95,2
+2022,Leadership and Management,Mid-level,Full-time,17,1780563,104739.00,104663.0,52.94,0.00,47.06,3
+2022,Data Science and Research,Mid-level,Full-time,72,7441167,103349.54,93455.0,51.39,12.50,36.11,4
+2022,Data Science and Research,Mid-level,Freelance,1,100000,100000.00,100000.0,100.00,0.00,0.00,5
+2022,Data Engineering,Mid-level,Full-time,55,5471365,99479.36,86193.0,52.73,1.82,45.45,6
+2022,Data Analysis,Mid-level,Full-time,57,5550930,97384.74,80000.0,47.37,7.02,45.61,7
+2022,Data Quality and Operations,Mid-level,Full-time,2,160000,80000.00,80000.0,100.00,0.00,0.00,8
+2022,Machine Learning and AI,Mid-level,Contract,2,157712,78856.00,78856.0,100.00,0.00,0.00,9
+2022,Data Engineering,Mid-level,Part-time,1,52533,52533.00,52533.0,0.00,100.00,0.00,10
+2022,BI and Visualization,Mid-level,Full-time,3,141000,47000.00,48000.0,100.00,0.00,0.00,11
+2022,Cloud and Database,Senior,Full-time,2,350000,175000.00,175000.0,100.00,0.00,0.00,1
+2022,Data Architecture and Modeling,Senior,Full-time,30,5100153,170005.10,167500.0,73.33,0.00,26.67,2
+2022,Machine Learning and AI,Senior,Full-time,81,13247969,163555.17,164996.0,69.14,2.47,28.40,3
+2022,Data Science and Research,Senior,Full-time,183,29832138,163017.15,156600.0,55.74,3.28,40.98,4
+2022,Leadership and Management,Senior,Full-time,38,5760676,151596.74,139375.0,63.16,0.00,36.84,5
+2022,Data Engineering,Senior,Full-time,160,23848745,149054.66,148100.0,51.88,0.63,47.50,6
+2022,BI and Visualization,Senior,Full-time,4,590000,147500.00,135000.0,100.00,0.00,0.00,7
+2022,Data Management and Strategy,Senior,Full-time,6,713293,118882.17,102500.0,50.00,0.00,50.00,8
+2022,Data Analysis,Senior,Full-time,84,9917518,118065.69,115967.0,66.67,0.00,33.33,9
+2022,Data Analysis,Senior,Contract,1,90000,90000.00,90000.0,100.00,0.00,0.00,10
+2022,Data Quality and Operations,Senior,Full-time,6,537250,89541.67,86625.0,33.33,0.00,66.67,11
+2023,Data Science and Research,Entry-level,Full-time,79,8498874,107580.68,110000.0,30.38,7.59,62.03,1
+2023,Machine Learning and AI,Entry-level,Full-time,25,2506965,100278.60,80000.0,32.00,16.00,52.00,2
+2023,Leadership and Management,Entry-level,Full-time,5,487223,97444.60,90000.0,60.00,0.00,40.00,3
+2023,Data Science and Research,Entry-level,Part-time,2,191300,95650.00,95650.0,0.00,0.00,100.00,4
+2023,Data Engineering,Entry-level,Full-time,31,2909302,93848.45,85000.0,41.94,9.68,48.39,5
+2023,Data Management and Strategy,Entry-level,Full-time,9,831650,92405.56,69500.0,77.78,0.00,22.22,6
+2023,BI and Visualization,Entry-level,Full-time,6,525500,87583.33,82200.0,0.00,0.00,100.00,7
+2023,Data Analysis,Entry-level,Contract,1,83200,83200.00,83200.0,0.00,100.00,0.00,8
+2023,Data Analysis,Entry-level,Full-time,65,4811550,74023.85,69525.0,33.85,6.15,60.00,9
+2023,Data Quality and Operations,Entry-level,Full-time,3,109881,36627.00,36912.0,66.67,33.33,0.00,10
+2023,Data Analysis,Entry-level,Part-time,1,18160,18160.00,18160.0,100.00,0.00,0.00,11
+2023,Data Science and Research,Executive,Full-time,45,9640909,214242.42,212000.0,42.22,2.22,55.56,1
+2023,Machine Learning and AI,Executive,Full-time,10,2104636,210463.60,194000.0,80.00,0.00,20.00,2
+2023,Leadership and Management,Executive,Full-time,33,5945220,180158.18,180000.0,42.42,0.00,57.58,3
+2023,Data Engineering,Executive,Full-time,56,10052594,179510.61,174750.0,35.71,0.00,64.29,4
+2023,BI and Visualization,Executive,Full-time,4,693700,173425.00,169850.0,0.00,0.00,100.00,5
+2023,Data Architecture and Modeling,Executive,Full-time,2,335000,167500.00,167500.0,0.00,0.00,100.00,6
+2023,Data Analysis,Executive,Full-time,10,1162500,116250.00,107500.0,60.00,0.00,40.00,7
+2023,Machine Learning and AI,Mid-level,Full-time,127,18943647,149162.57,144000.0,33.86,3.15,62.99,1
+2023,Data Science and Research,Mid-level,Full-time,223,30262219,135705.02,129300.0,30.49,2.69,66.82,2
+2023,Leadership and Management,Mid-level,Full-time,54,6937441,128471.13,120000.0,24.07,0.00,75.93,3
+2023,Data Engineering,Mid-level,Full-time,182,21797703,119767.60,110868.0,36.81,1.10,62.09,4
+2023,Data Architecture and Modeling,Mid-level,Full-time,23,2688412,116887.48,110000.0,26.09,0.00,73.91,5
+2023,BI and Visualization,Mid-level,Full-time,41,4245337,103544.80,100631.0,34.15,0.00,65.85,6
+2023,Data Management and Strategy,Mid-level,Full-time,10,1027000,102700.00,88750.0,30.00,0.00,70.00,7
+2023,Data Analysis,Mid-level,Full-time,141,13575979,96283.54,88000.0,26.24,2.84,70.92,8
+2023,Data Quality and Operations,Mid-level,Full-time,8,514740,64342.50,65000.0,50.00,0.00,50.00,9
+2023,Machine Learning and AI,Mid-level,Contract,4,210500,52625.00,40000.0,100.00,0.00,0.00,10
+2023,Data Analysis,Mid-level,Freelance,1,36000,36000.00,36000.0,0.00,0.00,100.00,11
+2023,Data Analysis,Mid-level,Contract,1,35000,35000.00,35000.0,100.00,0.00,0.00,12
+2023,Data Science and Research,Mid-level,Freelance,1,21000,21000.00,21000.0,100.00,0.00,0.00,13
+2023,Data Analysis,Senior,Contract,1,323905,323905.00,323905.0,100.00,0.00,0.00,1
+2023,Machine Learning and AI,Senior,Full-time,497,96667583,194502.18,188800.0,33.00,0.80,66.20,2
+2023,Data Science and Research,Senior,Full-time,738,131070988,177602.96,172000.0,30.35,0.68,68.97,3
+2023,Data Architecture and Modeling,Senior,Full-time,93,14890481,160112.70,153000.0,48.39,0.00,51.61,4
+2023,Data Engineering,Senior,Full-time,437,69177819,158301.65,149076.0,37.76,0.69,61.56,5
+2023,Leadership and Management,Senior,Full-time,167,25914923,155179.18,146000.0,41.32,0.60,58.08,6
+2023,Cloud and Database,Senior,Full-time,3,425000,141666.67,140000.0,100.00,0.00,0.00,7
+2023,BI and Visualization,Senior,Full-time,122,16969977,139098.17,135000.0,33.61,0.00,66.39,8
+2023,Data Quality and Operations,Senior,Full-time,26,3384500,130173.08,127000.0,23.08,0.00,76.92,9
+2023,Data Analysis,Senior,Full-time,281,35362181,125844.06,121700.0,47.33,0.00,52.67,10
+2023,Data Engineering,Senior,Contract,1,118539,118539.00,118539.0,100.00,0.00,0.00,11
+2023,Data Management and Strategy,Senior,Full-time,18,1973193,109621.83,96796.5,22.22,0.00,77.78,12
+2023,Data Engineering,Senior,Freelance,1,50000,50000.00,50000.0,0.00,100.00,0.00,13
+2023,Machine Learning and AI,Senior,Freelance,1,50000,50000.00,50000.0,0.00,100.00,0.00,13
